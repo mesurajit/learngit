@@ -6,5 +6,5 @@ int sum(int a,int b){
 main(){
 
     int a=4,b=7;
-    cout<<sum(a,b)<<endl;
+    cout<<"result:"<<sum(a,b)<<endl;
 }
